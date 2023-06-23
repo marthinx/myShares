@@ -11,6 +11,10 @@
  
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
+## files 
+ - README.md ( this readme files )
+ - noteboot-myshares.ipynb ( the jupyther notebook file ) 
+
 ## Project Motivation
 For this project I was interested in how to create a first blog post using kaggle and connect it with github.
 
@@ -28,6 +32,9 @@ There is one exploratory notebook available here to showcase my work related to 
 
 ## Medium Blog Post 
 The main findings of the code can be found at the Medium Blog post available [Kaggle](https://www.kaggle.com/code/marthinx/marthinx-shares)
+
+## Conclusion
+with the library 'yfinance' you can get all the stock data that are needed. It is a great way to analyse a depot and to analyse shares.
 
 ## Licensing, Authors, Acknowledgements, etc.
 Acknowledgement should go to [Kaggle](https://www.kaggle.com/code/marthinx/marthinx-shares) and zackthoutt for providing the dataset. Acknowledgement should also go to [DataCamp](https://www.datacamp.com/community/tutorials/wordcloud-python) for their excellent WordCloud tutorial.
