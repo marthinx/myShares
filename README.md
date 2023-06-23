@@ -11,7 +11,7 @@
  
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
-## files 
+## Files in the repository
  - README.md ( this readme files )
  - noteboot-myshares.ipynb ( the jupyther notebook file ) 
 
