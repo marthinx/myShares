@@ -27,6 +27,15 @@ The conducting exploratory data analysis using a Kaggle post (https://www.kaggle
 
 I wanted the opportunity to explore the data and communicate my findings via a blog post on Medium in what is hopefully an engaging post which gives the reader insight into the questions posed. 
 
+The analysation should follow the **CRISP-DM** process in finding the solutions:
+1. Business Understanding (Aufgabendefinition)
+2. Data Understanding (Auswahl der relevanten Datenbestände)
+3. Data Preparation (Datenaufbereitung)
+4. Modeling (Auswahl und Anwendung von Data Mining Methoden)
+5. Evaluation (Bewertung und Interpretation der Ereignisse)
+6. Deployment (Anwendung der Ergebnisse)
+
+
 ## File Descriptions
 There is one exploratory notebook available here to showcase my work related to the questions posed. Markdown cells were used throughout to explain the process taken.
 
