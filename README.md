@@ -15,7 +15,7 @@ No additional installations beyond the Anaconda distribution of Python and Jupyt
 For this project I was interested in how to create a first blog post using kaggle and connect it with github.
 
 I was also interested in how to use yfinance api and how to get the data out of this stock data source.
-The conducting exploratory data analysis using a Kaggle post (https://www.kaggle.com/code/marthinx/marthinx-shares/edit/run/134603365) to better understand:
+The conducting exploratory data analysis using a Kaggle post (https://www.kaggle.com/code/marthinx/marthinx-shares) to better understand:
  - How can the yfinance api be used ?
  - How can the data be accessed?
  - How can I create simple plots with the data?
