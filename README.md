@@ -5,19 +5,22 @@
  - Pandas # data processing, CSV file I/O (e.g. pd.read_csv)
  - Seaborn
  - Matplotlib
- - yfinance
+ - yfinance # the api for the stock data source
  - datetime
 
  
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
 ## Project Motivation
-For this project I was interested in conducting exploratory data analysis using a [Wine Review dataset found on Kaggle](https://www.kaggle.com/zynicide/wine-reviews) containing approximately 130k reviews from the [Wine Enthusiast](https://www.winemag.com/?s=&drink_type=wine) to better understand:
- - Where does the best wine in the world come from?
- - Is price related to quality?
- - Are certain varieties of wine higher quality?
- - What is the best wine in each price bracket?
- - What words are most used when talking about wine?
+For this project I was interested in how to create a first blog post using kaggle
+https://www.kaggle.com/code/marthinx/marthinx-shares/edit/run/134603365
+
+I was also interested in how to use yfinance api and how to get the data out of this stock data source.
+the n conducting exploratory data analysis using a [Wine Review dataset found on Kaggle](https://www.kaggle.com/zynicide/wine-reviews) containing approximately 130k reviews from the [Wine Enthusiast](https://www.winemag.com/?s=&drink_type=wine) to better understand:
+ - How can the yfinance api be used ?
+ - How can the data be accessed?
+ - How can I create simple plots with the data?
+ - How can I analyse the stock data?
 
 I wanted the opportunity to explore the data and communicate my findings via a blog post on Medium in what is hopefully an engaging post which gives the reader insight into the questions posed. 
 
