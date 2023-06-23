@@ -16,7 +16,7 @@ For this project I was interested in how to create a first blog post using kaggl
 https://www.kaggle.com/code/marthinx/marthinx-shares/edit/run/134603365
 
 I was also interested in how to use yfinance api and how to get the data out of this stock data source.
-the n conducting exploratory data analysis using a [Wine Review dataset found on Kaggle](https://www.kaggle.com/zynicide/wine-reviews) containing approximately 130k reviews from the [Wine Enthusiast](https://www.winemag.com/?s=&drink_type=wine) to better understand:
+The conducting exploratory data analysis using a Kaggle post (https://www.kaggle.com/code/marthinx/marthinx-shares/edit/run/134603365) to better understand:
  - How can the yfinance api be used ?
  - How can the data be accessed?
  - How can I create simple plots with the data?
@@ -28,7 +28,7 @@ I wanted the opportunity to explore the data and communicate my findings via a b
 There is one exploratory notebook available here to showcase my work related to the questions posed. Markdown cells were used throughout to explain the process taken.
 
 ## Medium Blog Post 
-The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@stephanieirvine15/how-data-will-make-you-drink-wine-differently-c59d669831a1)
+The main findings of the code can be found at the Medium Blog post available [here](https://www.kaggle.com/code/marthinx/marthinx-shares/edit/run/134603365)
 
 ## Licensing, Authors, Acknowledgements, etc.
 Acknowledgement should go to [Kaggle](https://www.kaggle.com/zynicide/wine-reviews) and zackthoutt for providing the dataset. Acknowledgement should also go to [DataCamp](https://www.datacamp.com/community/tutorials/wordcloud-python) for their excellent WordCloud tutorial.
