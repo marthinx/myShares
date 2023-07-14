@@ -40,6 +40,9 @@ The analysation should follow the **CRISP-DM** process in finding the solutions:
 There is one exploratory notebook available here to showcase my work related to the questions posed. Markdown cells were used throughout to explain the process taken.
 
 ## Medium Blog Post 
+The main findings of the code can be found at the Medium Blog post available [Medium](https://www.kaggle.com/code/marthinx/marthinx-shares)
+
+## Kaggle Blog Post 
 The main findings of the code can be found at the Medium Blog post available [Kaggle](https://www.kaggle.com/code/marthinx/marthinx-shares)
 
 ## Conclusion
